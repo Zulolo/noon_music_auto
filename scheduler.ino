@@ -2,8 +2,8 @@
 #include <time.h>
 #include "CronAlarms.h"
 
-const char* ssid       = "zulolo";
-const char* password   = "leon0873";
+const char* ssid       = "xxxxx";
+const char* password   = "yyyyy";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 28800;
